@@ -1,0 +1,54 @@
+{
+  "name": "speechly",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@speechly/react-client": "0.0.4",
+    "@speechly/react-ui": "^1.2.9",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "aos": "^3.0.0-beta.6",
+    "chart.js": "^2.9.4",
+    "framer-motion": "^4.1.17",
+    "orbit-controls-es6": "^2.0.1",
+    "react": "^17.0.1",
+    "react-chartjs-2": "^2.11.2",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.1",
+    "react-speech-kit": "^3.0.1",
+    "react-three-fiber": "^6.0.13",
+    "style-component": "0.0.1",
+    "three": "^0.136.0",
+    "three.js": "^0.77.1",
+    "uuid": "^8.3.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
